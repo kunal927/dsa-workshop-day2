@@ -1,1 +1,1 @@
-# dsa-workshop-day2
+# DSA-BootCamp-Day-2
